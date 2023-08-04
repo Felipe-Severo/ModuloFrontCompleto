@@ -1,0 +1,16 @@
+Criar o controller Calculadora:
+Esse controlador deverá disponibilizar os serviços de Calculo e Inicialização
+Inicializar: Deverá receber todos os dados da calculadora: Valores que serão utilizados e operação.
+Calcular: Realizará o calculo e retornará o valor. Caso o caso já tenha sido realizado, deverá disparar a mensagem 
+"Calculo já realizado, inicialize a calculadora novamente!".
+
+---------------------------------------------------  / /  ------------------------------------------------------------
+Criar o controller Carro.
+
+Esse controle deve disponibilizar os métodos de:
+- GetAll - Vizualiza todos os carros
+- Get - Vizualiza o carro com a placa informada
+- GetRange - Vizualiza todos os carros em que o ano de fabricação esteja entre um valor minímo e máximo que serão informados
+- Create - Cria um carro
+- Update - Altera um carro
+- Delete - Exclui um carro
